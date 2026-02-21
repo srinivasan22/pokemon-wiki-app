@@ -4,7 +4,7 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
 
 ✨ Features
 	•	✅ Pokémon List - Grid view with sprites, IDs, names, and color-coded type badges
-	•	✅ Pokémon Details - Individual stats (weight, height, types) with navigation to        homepage.
+	•	✅ Pokémon Details - Individual stats (weight, height, types) with navigation to homepage.
 	•	✅ Random Pokémon - Quick navigation to random Pokémon (1-151)
 	•	✅ Modern Angular 18+ -  @if/@for/@else , signals-ready architecture
 	•	✅ 100% Test Coverage - All components + services fully tested with Vitest
@@ -12,6 +12,7 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
 	•	✅ PokeAPI Integration - Real-time data from official Pokémon API
 
 📱 Live Demo
+
     http://localhost:8080  (local) 
 
 🛠️ Tech Stack
@@ -24,6 +25,7 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
     Routing: Angular Router
 
 🎮 Quick Start
+
     1. Clone & Install
 
     git clone https://github.com/srinivasan22/pokemon-wiki-app
