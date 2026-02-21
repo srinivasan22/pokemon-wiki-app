@@ -26,7 +26,7 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
 🎮 Quick Start
     1. Clone & Install
 
-    git clone <your-repo-url>
+    git clone https://github.com/srinivasan22/pokemon-wiki-app
     cd pokemon-wiki-app
     npm install
 
