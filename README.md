@@ -11,10 +11,6 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
 	•	✅ Responsive Design - Mobile-first CSS Grid + hover effects
 	•	✅ PokeAPI Integration - Real-time data from official Pokémon API
 
-📱 Live Demo
-
-    http://localhost:8080  (local) 
-
 🛠️ Tech Stack
 
     Frontend: Angular 18+ (standalone components)
@@ -34,7 +30,7 @@ A modern Angular 18+ single-page application featuring a responsive Pokémon cat
 
     2. Development
 
-    ng serve          # http://localhost:4200
+    ng serve          # http://localhost:8080
     ng test           # 6/6 tests pass ✅
     ng test --watch   # TDD mode
 
