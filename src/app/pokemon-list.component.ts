@@ -82,13 +82,15 @@ interface Pokemon {
       display: flex; 
       flex-direction: column; 
       align-items: center; 
-      padding: 0.7rem; 
+      padding: 0.4rem; 
       border-radius: 20px; 
       box-shadow: 0 8px 25px rgba(0,0,0,0.1); 
       text-decoration: none; 
       color: inherit; 
       transition: all 0.3s ease; 
-      background: white; 
+      backdrop-filter: blur(10px);      
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5);  
       height: 100%; 
     }
     .pokemon-card:hover { 

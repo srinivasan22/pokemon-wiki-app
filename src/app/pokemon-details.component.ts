@@ -81,9 +81,8 @@ interface PokemonDetails {
       margin: 0 auto 2rem;
       padding: 2rem;
       border-radius: 16px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
       text-align: center;
-      background: white;
     }
     
     .card img {
